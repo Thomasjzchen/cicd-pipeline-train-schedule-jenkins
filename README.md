@@ -5,6 +5,10 @@
 test
 ```
 
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
 ## This is the 6th change to the README.md
 
 # cicd-pipeline-train-schedule-jenkins
